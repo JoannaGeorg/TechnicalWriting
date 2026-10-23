@@ -61,3 +61,94 @@ In technical writing the most important trasisitons are:
   - For Example
 
 Eg. Juan is a wonderful coder. **However**, he rarely writes sufficient tests. **For example**, Juan coded a 5,000 line FFT package that contained only a single 10-line unit test.
+
+## Words
+
+### Define New or Unfamiliar Terms
+
+When writting or editing, recognize terms that might be unfamiliar to some or all of the terget audience.
+
+If the term already exists, link to a good existing explanation.
+
+If the term is being introduced, define the term.
+  - If many terms are introduced in a document, collect the definations into a glossary.
+
+### User Terms Conssitantly
+
+Do not change the terms used, apply the same unambigous word consistenetly thorughout the document.
+
+Example of renaming: "Protocol Buffers provide their own definition language ... And that's why protobufs have won so many county fairs."
+
+The correct way of the above example would be applied as: "Protocol Buffers (or protobufs for short) provide their own definition language ... And that's why protobufs have won so many county fairs."
+
+### Use Acronymns Properly
+
+On the initial use of an infamiliar acronym within a document or a section, spell ou the full ther and then put the acronymn in parentheses.
+
+Teh acronymn, then, can be used as is.
+
+Eg. "This document is for engineers who are new to the Telekinetic Tactile Network (TTN) or need to understand how to order TTN replacement parts through finger motions."
+
+Do not cycle back and forth between the full form and the acrpnym.
+
+### Recognize Ambigous Pronouns
+
+Consider the pronoun guidelines:
+  - Only use a pronoun after the noun has been introduced, never before.
+  - Place the pronoun as close to the referring noun.
+    - If more than 5 words seperate the reffering noun from the pronoun, repat the noun instead of using a pronoun.
+  - If a second noun is intoduced between the refernced noun and the pronoun, reuse thr noun instead.
+
+## Active Voice vs Passive Voice
+
+In an active voice the actor acts on a target.
+
+`Active Voice = Actor + Verb + Target`
+
+Eg. The cat sat on the mat.
+  - Actor: cat
+  - Verb: sat
+  - Target: mat
+
+A passive voice the target is the main focus.
+
+`Passive Voice = Target + Verb + Actor`
+
+Eg. The mat was sat on by the cat.
+  - Actor: cat
+  - Verb: sat
+  - Target: mat
+
+Some passive voice sentences can omit the actor altogether.
+
+Eg. The mat was sat on.
+  - Actor: *unknown*
+  - Verb: sat
+  - Target: mat
+
+## Clear Sentences
+
+### Choose Strong Verbs
+
+Examples of weak and strong verb usage:
+|Weak Verb|Strong Verb|
+|---------|-----------|
+|The exception **occurs** when dividing by zero|Dividing by zero **raises** the exception|
+|This error message **happens** when ...|The system **generates** this error message when ...|
+|We **are** very careful to ensure ... |We carefullt **ensure** ... |
+
+Use different verbs to make the prose more interesting, ie, Sprinkle in different verbs to make the prose more apetizing.
+
+### Reduce "There is" and "There are"
+
+Sentences that start with "There is" or "There are" are very generic.
+
+Often, just removing those phrases automaitically make the sentence more interesting.
+
+Eg. 
+Instead of "There is a variable called `met_trick` that stores the current accuracy."
+Write: "A variable named `met_trick` stores the current accuracy."
+
+Sometimes, moving the subject is better.
+
+Othertimes, creating a subject to replace the phrase is more clear.
