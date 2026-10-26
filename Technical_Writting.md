@@ -193,3 +193,46 @@ Eg. "An input value greater than 100 **causes the triggering** of logging."
 A better form of saying the same sentence is present.
 
 Eg. "An input value greater than 100 **triggers** logging."
+
+## Lists and Tables
+
+Good lists can result in an orderly documentation.
+
+### Choose the Correct Type of List
+
+The different types of list are as follows:
+  - *Bulleted Lists:* Used for unordered items, i.e., if the order of the listed items change the meaning of the list remains the same.
+  - *Numbered Lists:* Used for Ordered items where a change in list items fundamentally changes the maining of the list.
+  - *Embedded Lists:* Are list of items that are in a sentence. Ideally, the sentece should be converted into a bulleted or numbered list.
+
+### Keep List Items Parrallel
+
+All items in a parrallel list look like they belong together. They should match in:
+  - Grammar
+  - Logical Category
+  - Capatilization
+  - Punctuation
+
+The first item in the list establishes the patter that a reader expects to see repeated.
+
+### Start Numbered List Items with Imperitive words.
+
+An imperative words is a command, such as *open* or *start*.
+
+Eg. "How to:
+  1. Download the Frambus app from Google Play or iTunes.
+  2. Configure the Frambus app's settings.
+  3. Start the Frambus app."
+
+### Create Useful Tables
+
+Consider the following guidelines:
+  - Label each column with a meaningfull header.
+  - Avoid putting too much text into a table cell. No more than two sentences.
+  - Strive for parallelism within individual columns.
+
+### Introduce Each List and Table
+
+AKA, give the list or table context. Terminate the introductory statement witha colon rather than a period.
+
+Use the word *"following"* in the introductory sentence.
