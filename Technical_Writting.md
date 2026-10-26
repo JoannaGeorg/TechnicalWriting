@@ -301,3 +301,21 @@ Match the vocabulary to the audience.
 Use simple words over rare and complex words.
 
 Keep the writting culturally neutral. Idiom's would not make sense to someone of different background like saying "Someone's looking a little green" means the same as "Someone's drinking vinegar". The difference is the background and language of the people using it.
+
+## Documents
+
+### State the Document Scope
+
+A good docuemnt starts by defining tis scope.
+
+Eg. This document describes the design of Project Noctilus.
+
+It can also define it non-scope, i.e., the topics not convered by the docuemenst that the audeince might expect.
+
+### State the Audience
+
+A good docuemnt explicitly specifies its audience. It can also state any prerequisite knowledge or experience for underatnding the document.
+
+### Summarize Key Points at the Start
+
+Many readers will not sit and read through the entire document. Have the start of the docuemnt answers the essential questions.
