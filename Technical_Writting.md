@@ -319,3 +319,40 @@ A good docuemnt explicitly specifies its audience. It can also state any prerequ
 ### Summarize Key Points at the Start
 
 Many readers will not sit and read through the entire document. Have the start of the docuemnt answers the essential questions.
+
+## Organizing Large Docuemnts
+
+### Outline a Document
+
+Start with a structured, high-level outline that can help group topics and determine where more detail is needed.
+
+### Introduce a Docuemnt
+
+Provide information that includes:
+  - What the documwnt covers.
+  - What prior knowledge is expected.
+  - What he document does not cover.
+
+### Add Navigation
+
+Provide navigation and signposting for reader to easily find information that they might look for.
+
+Clear navigation include:
+  - Inftroduction and Summary sections
+  - Clear, and Logical Development of the Subject
+  - Headings and subheadings that helps users understand
+  - Table of contents
+  - Links to the related resources
+  - Link to next sections
+
+### Disclose Information Progressively
+
+Too many new concepts too quickly can be overwhelming. The following techniques help for progressive learning:
+  - Introduce new terminoogy and concepts near the intruction that rely on them.
+  - Break up large paragraphs. Incorporate:
+    - Tables
+    - Diagrams
+    - Lists
+    - Headings
+  - Break up large series of steps infto shorter lists with sub tasks.
+  - Start with simple examples and instructions. Later introduce more interesting and complicated techniques.
