@@ -236,3 +236,30 @@ Consider the following guidelines:
 AKA, give the list or table context. Terminate the introductory statement witha colon rather than a period.
 
 Use the word *"following"* in the introductory sentence.
+
+## Paragraphs
+
+### Write a Great Openeing Sentence.
+
+The Opening sentence is the most important part of the pragraph. It is the focus and the rest of the content is structured around it.
+
+A good opening sentence establishes the paragrph's central point.
+
+Eg. "A loop runs the same block of code multiple times. For example, suppose you wrote a block of code that detected whether an input line ended with a period. To evaluate a million input lines, create a loop that runs a million times."
+
+### Focus Each Paragrph on a Single Topic
+
+A paragraph should represent an independant unit of logic. No description of a future or past topic.
+
+### Don't Make Paragraphs Too Long or Short
+
+Long Paragrphs are visually intimidating that readers may ignore.
+
+Conversely, too short paragraphs makes for faulty organization.
+
+### Answer What, Why, and How
+
+Good paragraphs answer the following 3 questions:
+  1. What is the content?
+  2. Whay is it important to know?
+  3. How should the knowledge be used? or How is the point true?
