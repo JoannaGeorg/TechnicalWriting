@@ -263,3 +263,41 @@ Good paragraphs answer the following 3 questions:
   1. What is the content?
   2. Whay is it important to know?
   3. How should the knowledge be used? or How is the point true?
+
+## Audience
+
+`Good Documentation = knowledge and skills the audience needs to do a task - the sudience current knowledge and skills`
+
+Thus, make sure that the document provides the information the audiences needs but dosen't already have.
+
+### Define the Audience
+
+Serious documentation efforts spend considerable time and energy on defing their audience. These efforts maight involve:
+  - Surveys
+  - User Experience Studies
+  - Focus groups
+  - Documentation testing.
+
+Begin by identifying the audience role as they tend to share certain base skills and knowledge.
+
+Eg. Most software engineers know the popular sorting algorithms and big O Notation. Thus, it is expected they already have this knowledge.
+
+Consider thier proximity to the knowledge documented.
+
+Eg. A heart sugeon knows more about the human ear than the average software engineer but not more than the average audiologist.
+
+### Determine What the Audience Needs to Learn
+
+List everything that the audience needs to know to learn. It can also include the tasks that they need to perform.
+
+Also note the order of study for the tasks. What should be learnt before taskling the nest problem.
+
+### Fit the Documentation to the Audience
+
+Create Explanations that satisfy the audience's curiosity.
+
+Match the vocabulary to the audience.
+
+Use simple words over rare and complex words.
+
+Keep the writting culturally neutral. Idiom's would not make sense to someone of different background like saying "Someone's looking a little green" means the same as "Someone's drinking vinegar". The difference is the background and language of the people using it.
