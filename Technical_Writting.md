@@ -152,3 +152,44 @@ Write: "A variable named `met_trick` stores the current accuracy."
 Sometimes, moving the subject is better.
 
 Othertimes, creating a subject to replace the phrase is more clear.
+
+## Short Sentences
+
+Generally, it is better to minimize the number of sentences:
+  - Shorter documentation reads faster.
+  - Shorter documentation is typically easier to maintain.
+  - Extra line of documentation introduce additional points of failure.
+
+### Focus Each Sentence on a Single Idea
+
+The focus of each sentence must be on a single idea, thought, or concept.
+
+Example of a sentence with multiple ideas:
+
+"The late 1950s was a key era for programming languages because IBM introduced Fortran in 1957 and John McCarthy introduced Lisp the following year, which gave programmers both an iterative way of solving problems and a recursive way."
+
+Ideal sentences:
+
+"The late 1950s was a key era for programming languages. IBM introduced Fortran in 1957. John McCarthy invented Lisp the following year. Consequently, by the late 1950s, programmers could solve problems iteratively or recursively."
+
+### Convert Some Long Sentences Into Lists
+
+Example of a long sentence:
+
+"To alter the usual flow of a loop, you may use either a break statement (which hops you out of the current loop) or a continue statement (which skips past the remainder of the current iteration of the current loop)."
+
+Breaking it into a list:
+
+"To alter the usual flow of a loop, call one of the following statements:
+  - break, which hops you out of the current loop.
+  - continue, which skips past the remainder of the current iteration of the current loop."
+
+### Eliminate or Reduce Extraneous Words
+
+Many sentences contain filler words.
+
+Eg. "An input value greater than 100 **causes the triggering** of logging."
+
+A better form of saying the same sentence is present.
+
+Eg. "An input value greater than 100 **triggers** logging."
